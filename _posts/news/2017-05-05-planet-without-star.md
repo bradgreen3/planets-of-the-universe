@@ -1,6 +1,6 @@
 ---
-layout: news
-title: Planet Without Star Founding Aimlessly Drifting
+layout: news-article
+title: Planet Without Star Found Aimlessly Drifting
 meta: Sad planet has no star
 source: http://www.sadplanets.com
 category: news

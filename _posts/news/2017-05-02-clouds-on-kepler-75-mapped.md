@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Clouds found on Kepler-75b
 meta: Satellite detects clouds on faraway planet
 source: http://www.spaceclouds.com
